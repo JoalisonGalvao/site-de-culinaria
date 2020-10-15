@@ -1,0 +1,64 @@
+body{
+	/*background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_8lWgRog2eFxNbx265AITPXfN4WvekJKMXvkHH57-4_s-eV-X");*/
+	/*background-image: url("https://cafeourobrasileiro.com.br/wp-content/uploads/2017/06/receitas-de-cafe-fundo.jpg");*/
+	background-image: url("../img/fundo.jpg"); 
+}
+
+
+.titulos{
+	background-color: #CACACA;
+	text-align: center;
+}
+
+.principal{
+	background-color: #ECEEEC;
+}
+
+.botaoF{
+	background-color: #483D8B;
+	color: #F5FFFA;
+}
+
+.botaoG{
+	background-color: white;
+	color: black;
+}
+
+
+.centro{
+	text-align: center;
+}
+
+.divCentro {
+margin: 0 auto;
+width: 50%;
+height: 50%; /* Valor da Largura */
+top: 20%;
+margin top: -50;
+position:absolute;
+left: 25%;
+
+}
+
+.botoesCentro {
+margin: 0 auto;
+width: 50%;
+height: 50%; /* Valor da Largura */
+top: 25%;
+margin top: -50;
+position:absolute;
+left: 58%;
+
+}
+
+.topo{
+	background-size: url(cover);
+}
+
+.teste{
+	background-color: red;
+}
+
+.teste2{
+	background-color: blue;
+}
